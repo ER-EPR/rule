@@ -3,5 +3,6 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,savorcare.com
 DOMAIN-SUFFIX,henhaoji.site
-
+# 源IP
+SRC-IP-CIDR,192.168.8.2/32
 
