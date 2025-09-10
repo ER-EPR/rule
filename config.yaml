@@ -12,39 +12,7 @@ geox-url:
   asn: https://testingcf.jsdelivr.net/gh/xishang0128/geoip@release/GeoLite2-ASN.mmdb
 # 机场订阅
 proxy-providers:
-#  Airport0:
-#    url: "https://worker.henhaoji.site/202401227?sub=VLESS.cmliussss.net"
-#    type: http
- #   interval: 14400
-#    health-check:
-#      enable: true
-#      url: https://www.gstatic.com/generate_204
- #     interval: 300
-#    proxy: 直连
-    #override:
-      #additional-prefix: "前缀 |"
-      #additional-suffix: "| 后缀"
-  Airport1:
-    url: "https://subs.savorcare.com:12345/api/file/mihomo"
-    type: http
-    interval: 3600
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 180
-    proxy: 直连
-  Airport2:
-    url: "https://substore.savorcare.com:12345/1hGsstISBYpl2omyw/download/collection/US%2BJP?target=ClashMeta"
-    type: http
-    interval: 86400
-    health-check:
-      enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
-    proxy: 直连
-    #override:
-      #additional-prefix: "前缀 |"
-      #additional-suffix: "| 后缀"
+
   Airport3:
     url: "http://192.168.8.2:8299/api/file/mihomo"
     type: http
