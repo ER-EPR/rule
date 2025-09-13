@@ -1,5 +1,6 @@
 # 代理补充列表
 DOMAIN,docker.io
+DOMAIN,1337x.to
 SRC-IP-CIDR,192.168.8.87/32
 DOMAIN,lscr.io
 DOMAIN,stboy.net
