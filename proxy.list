@@ -1,5 +1,6 @@
 # 代理补充列表
 # SRC-IP-CIDR,192.168.8.87/32
+DOMAIN,hysteria.network
 DOMAIN,lscr.io
 DOMAIN,stboy.net
 DOMAIN,soutong.men
