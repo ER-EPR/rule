@@ -1,6 +1,7 @@
 # 直连补充列表
 #DOMAIN-KEYWORD,okx
-DOMAIN,1928080-firebase-us-1757943362504.cluster-lqnxvk7thvfw4wbonsercicksm.cloudworkstations.dev
+DOMAIN,8080-firebase-us-1757943362504.cluster-lqnxvk7thvfw4wbonsercicksm.cloudworkstations.dev
+DOMAIN,8080-firebase-tw-1757948160512.cluster-73qgvk7hjjadkrjeyexca5ivva.cloudworkstations.dev
 GEOSITE,okx
 # 域名后缀匹配
 DOMAIN-SUFFIX,dpdns.org
