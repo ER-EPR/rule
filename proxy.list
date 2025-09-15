@@ -1,12 +1,13 @@
 # 代理补充列表
 # SRC-IP-CIDR,192.168.8.87/32
-DOMAIN,hysteria.network
 DOMAIN,lscr.io
-DOMAIN,stboy.net
-DOMAIN,soutong.men
 # 域名后缀匹配
-DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,hysteria.network
+DOMAIN-SUFFIX,stboy.net
+DOMAIN-SUFFIX,soutong.men
 DOMAIN-SUFFIX,nextcloud.com
+
+DOMAIN-SUFFIX,qichiyu.com
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,docker
