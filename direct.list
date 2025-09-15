@@ -2,8 +2,8 @@
 #DOMAIN-KEYWORD,okx
 GEOSITE,okx
 # 域名后缀匹配
-DOMAIN,dpdns.org
-DOMAIN,markwu.eu.org
+DOMAIN-SUFFIX,dpdns.org
+DOMAIN-SUFFIX,markwu.eu.org
 DOMAIN-SUFFIX,savorcare.com
 DOMAIN-SUFFIX,henhaoji.site
 # 源IP
